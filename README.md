@@ -1,1 +1,1 @@
-Very tiny calculator
+Very tiny calculator written on Python Tkinter
